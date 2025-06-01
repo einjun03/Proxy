@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-8.9198 -5.1663 -5.3648 14.9463 1.0979 15.1910" area="108" targetId="2d1bea2b8b5046c398b7055a09b2464e" name="dining" pathAuthoring="2d1bea2b8b5046c398b7055a09b2464e_authoring.glb" pathOcclusion="2d1bea2b8b5046c398b7055a09b2464e_occlusion.3dt" pathNavMesh="2d1bea2b8b5046c398b7055a09b2464e_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

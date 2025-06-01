@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="Oatly" targetId="e779331c11c54662a54a468fc53b166c" version="14.0" toolVersion="v7.3.1" bbox="-0.189039 0 -0.185843 0.189039 0.944376 0.185843" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Oatly" assemblyId="fe5616ac897f442c86be743919652cdc">
+        <Part name="Oatly" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
