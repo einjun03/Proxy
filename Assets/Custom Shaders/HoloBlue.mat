@@ -39,13 +39,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FresnelPower: 0.5
-    - _InteriorSpread: 1
+    - _FresnelPower: 1.95
+    - _InteriorSpread: 1.44
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _FresnelColor: {r: 0, g: 0.2598443, b: 1, a: 1}
-    - _InteriorColor: {r: 0.0040650307, g: 0.022097087, b: 0.02067283, a: 1}
+    - _FresnelColor: {r: 0, g: 0.2598443, b: 1, a: 0.6745098}
+    - _InteriorColor: {r: 0.12428801, g: 0.5377358, b: 0.4560365, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4710520662075503815
