@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="buldak" targetId="32f3e9ad1ce147a38849f95f7e1c0a00" version="14.0" toolVersion="v7.3.1" bbox="-0.0401632 0 -0.0412272 0.0401632 0.260362 0.0412272" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="buldak" assemblyId="d08e66fbbaa74ad0881f01f3a5ffeb4c">
+        <Part name="buldak" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
